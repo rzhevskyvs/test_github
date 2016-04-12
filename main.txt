@@ -1,3 +1,12 @@
 First line
 Second line
 New 3-th line
+
+
+git add .
+git commit -a -m 'Comment'
+
+git log
+git log -p
+git reset HEAD file
+
