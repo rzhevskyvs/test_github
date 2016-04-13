@@ -10,3 +10,6 @@ git reset HEAD file
 git remote add origin https://github.com/rzhevskyvs/test_github.git
 git push -u origin master
 
+
+Branch2
+
